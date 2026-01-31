@@ -1,4 +1,4 @@
-# Smart Room Controller – State Machine Based Design
+# Smart Room Controller 
 
 ## Purpose
 This project demonstrates the design of a simple smart room controller using a State Transition Machine (STM).  
