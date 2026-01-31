@@ -43,11 +43,14 @@ This approach helps in:
 - `STM_Table.png`  
   Visual representation of the state transition machine.
 
+
 - `PCB_Layout.pdf`  
   Conceptual PCB layout for the controller hardware.
+<img width="1024" height="1024" alt="PCB_Layout" src="https://github.com/user-attachments/assets/4bd51433-2c63-4528-a8e5-1649a6aa6d7a" />
 
 - `Wiring_Diagram.pdf`  
   Wiring diagram showing appliance connections.
+<img width="1024" height="1024" alt="Wiring_Diagram" src="https://github.com/user-attachments/assets/47ca2fd9-f257-4cd1-9ee7-c2c2c1ebf64e" />
 
 ## Notes
 This project focuses on logic design and documentation rather than hardware fabrication.  
